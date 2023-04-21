@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kry-ozo
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning how to make apps with express and mongoDB
+- 🌱 I’m currently learning how to make apps with React
 - 📫 You can e-mail me on: dorentier124@gmail.com
 
 <!---
